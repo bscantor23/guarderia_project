@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35.878" height="55.637" viewBox="0 0 35.878 55.637">
+  <g id="balloon" transform="matrix(0.848, -0.53, 0.53, 0.848, -219.032, 54.108)">
+    <path id="Path_21" data-name="Path 21" d="M211.152,89.394a14.4,14.4,0,0,0-3.383,4.044c-1.2,2.311-2.063,2.826-1.4,5.2s2.331,3.383,4.044,4.291.928-.33,2.806-.66,2.373.186,4.374.66,1.836,1.4,3.631,1.238,3.115-1.65,3.879-3.218.743-.536.99-2.971a32.237,32.237,0,0,0,0-6.767c-.227-2.661-.908-2.62-2.723-3.961s-2.228-1.052-4.539-1.4a12.862,12.862,0,0,0-4.7,0c-2.1.227-2.971.021-3.714.908S211.152,89.394,211.152,89.394Z" transform="translate(-0.866 -0.799)" fill="#fe7c9b"/>
+    <path id="Path_4" data-name="Path 4" d="M224.686,62.11c-4.331,0-8.8,3.905-8.8,7.669s4.473,7.385,8.8,7.385,8.521-3.621,8.521-7.385S229.017,62.11,224.686,62.11Z" transform="translate(-8.318 24.405)" fill="none" stroke="#341e25" stroke-width="1"/>
+    <path id="Path_5" data-name="Path 5" d="M224.226,76.888a16.087,16.087,0,0,0-2.421,9.294c.266,5.468,4.7,7.348,3.487,12.578s-8.344,8.344-8.344,8.344" transform="translate(-8 24.681)" fill="none" stroke="#341e25" stroke-width="1"/>
+    <line id="Line_1" data-name="Line 1" y1="5" x2="5" transform="translate(224.5 80.179)" fill="none" stroke="#341e25" stroke-width="1"/>
+    <line id="Line_2" data-name="Line 2" y1="7.334" transform="translate(220 76.512)" fill="none" stroke="#341e25" stroke-width="1"/>
+    <line id="Line_3" data-name="Line 3" x2="8" transform="translate(227.5 89.515)" fill="none" stroke="#341e25" stroke-width="1"/>
+  </g>
+</svg>

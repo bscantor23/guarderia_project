@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="52.3" height="50.62" viewBox="0 0 52.3 50.62">
+  <defs>
+    <filter id="Union_1" x="0" y="0" width="52.3" height="50.62" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="cloud_2" transform="translate(-289.754 -54.49)">
+    <g id="Group_6" data-name="Group 6" transform="matrix(0.259, -0.966, 0.966, 0.259, 181.77, 305.958)">
+      <g transform="matrix(0.26, 0.97, -0.97, 0.26, 270.85, 39.22)" filter="url(#Union_1)">
+        <path id="Union_1-2" data-name="Union 1" d="M6.534,21.975A6.534,6.534,0,0,1,4.172,9.348q-.014-.218-.015-.44a6.535,6.535,0,0,1,9.795-5.662,6.534,6.534,0,1,1,10.426,7.741A6.533,6.533,0,0,1,19.6,21.975a6.533,6.533,0,1,1-13.066,0Zm6.533-6.533q0-.228.015-.451l-.03.012q.014.218.015.44Z" transform="matrix(0.26, -0.97, 0.97, 0.26, 9, 31.24)" fill="#ffdcb6"/>
+      </g>
+      <circle id="Ellipse_6" data-name="Ellipse 6" cx="6.533" cy="6.533" r="6.533" transform="translate(253.69 60.751)" fill="#ffdcb6"/>
+    </g>
+    <path id="Path_23" data-name="Path 23" d="M257.47,75.418a13.475,13.475,0,0,1,3.871,3.838,13.645,13.645,0,0,1,1.584,5.238,28.573,28.573,0,0,1,1.191-6.272c.677-1.9,3.456-2.8,3.456-2.8a2.569,2.569,0,0,1-3.129-1c-1.162-1.822-1.517-6.284-1.517-6.284s.324,3.537-1.04,5.359S257.47,75.418,257.47,75.418Z" transform="matrix(-0.899, 0.438, -0.438, -0.899, 588.329, 19.227)" fill="none" stroke="#341e25" stroke-width="1.5"/>
+    <path id="Path_24" data-name="Path 24" d="M.459,9.617h0a11.639,11.639,0,0,0,1.134,1.142,11.906,11.906,0,0,1,3,3.916c1.456,2.99.951,7.243,1.691,6.9s.276-4.81,1.271-8.264c.723-2.5,3.689-3.7,3.689-3.7A2.442,2.442,0,0,1,7.9,8.293c-1.24-2.4-.937-7.975-1.62-8.28s.345,4.66-1.11,7.061S.459,9.617.459,9.617Z" transform="matrix(0.819, -0.574, 0.574, 0.819, 303, 80.425)" fill="none" stroke="#341e25" stroke-width="1.5"/>
+  </g>
+</svg>
